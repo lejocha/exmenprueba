@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+	<equipos>
+		<equipo>
+			<id>SAP</id>
+			<nombre>Deportivo Saprisa</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>
+		<equipo>
+			<id>ALA</id>
+			<nombre>L.D. Alajuelense</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>
+		<equipo>
+			<id>SCA</id>
+			<nombre>San Carlos</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>
+		<equipo>
+			<id>SPO</id>
+			<nombre>Sporting San Jose</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>
+		<equipo>
+			<id>HER</id>
+			<nombre>Herediano</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>		
+		<equipo>
+			<id>LIB</id>
+			<nombre>Liberia</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>
+		<equipo>
+			<id>SAN</id>
+			<nombre>Santa Ana</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>
+		<equipo>
+			<id>PER</id>
+			<nombre>Perez Zeledon</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>
+		<equipo>
+			<id>GUA</id>
+			<nombre>Guanacasteca</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>
+		<equipo>
+			<id>SGU</id>
+			<nombre>Santos de Guapiles</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>
+		<equipo>
+			<id>PUN</id>
+			<nombre>Puntarenas F.C.</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>
+		<equipo>
+			<id>CRA</id>
+			<nombre>Cartago</nombre>
+			<ganados>0</ganados>
+			<empatados>0</empatados>
+			<perdidos>0</perdidos>
+		</equipo>		
+	</equipos>
+</data>
